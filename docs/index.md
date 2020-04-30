@@ -10,6 +10,8 @@ Markdown
 
 **Bold**
 
+[ref]
+
 _Italic_
 
 Java `class` example:
@@ -37,5 +39,13 @@ prop.prop2=asc
 
 > Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote Block quote
 
+[[link to Home|Home]]
 
 ***
+
+| center | right | left |
+|:-----:|-----:| :---  |
+|fg | gg| 1
+|-----|-----|-----|
+| a | b | x |
+|c |d|z|
